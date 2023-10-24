@@ -1,6 +1,6 @@
 # The LaurieWired 2023 Halloween Sorting Challenge 🎃
 
-<p align="center" width="100%"><img src="https://github.com/LaurieWired/SortingChallengeTemp/assets/123765654/e67d56fc-c08d-41d7-b001-e9e672365bcd" width="50%" align="center"/></p>
+<p align="center" width="100%"><img src="https://github.com/LaurieWired/LaurieWired2023HalloweenSortingChallenge/assets/123765654/039626b7-84d3-40de-8414-30d84dce39e7" width="50%" align="center"/></p>
 
 
 **Have you ever wanted your code roasted on a LaurieWired Youtube video?  Do you like Neon Genesis Evangelion and think your personal sorting algorithm outclasses decades of computer science research?  Do you also enjoy custom, low-quality prizes being sent to your house?  Here's your chance!**
